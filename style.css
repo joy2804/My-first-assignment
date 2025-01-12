@@ -1,0 +1,176 @@
+
+
+.work-sans-normal font{
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+   font-style: normal;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style: none;
+}
+#sign{
+    background-color: white;
+    color: #006A50;
+    border-color: #006A50;
+    border-radius: 6px;
+    padding: 5px;
+
+}
+.Bangladesh{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    border-radius: 5px;
+    margin: 0 auto;
+    
+}
+.bangladesh-content{
+    max-width: 318px;
+    margin: 25px;
+}
+.sriti-soudho{
+    width: 474.03px; height: 400px;
+    background-image: url(../B11A1--assignment-1/assets/hero.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* all btn color */
+.all-btn{
+    background-color: #006A50;
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-size: 18px;
+    
+}
+/* Pillars-container section */
+.pillars{
+    box-shadow: 2px 6px 50px 2px rgb(110, 218, 194);
+    border-radius: 10px;
+}
+
+.Pillars-container{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: #006A50;
+    gap: 24px;
+}
+.pillars-description{
+    padding: 24px;
+    
+}
+.pillars-title{
+    margin: 25px;
+}
+/* vision style */
+.Vision-of-Future{
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: black;
+    gap: 24px;
+}
+.vision{
+    box-shadow: 2px 6px 50px 2px rgb(110, 218, 194);
+    border-radius: 10px;
+}
+.vision-title{
+    margin: 25px;
+}
+.vision-description{
+    padding: 24px;
+}
+/* vision color */
+#vision-1{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+#vision-1-1{
+    background-color: rgb(4, 83, 57);
+    border-radius: 10px;
+    padding: 20px;
+}
+#vision-2-2{
+    background-color: rgb(219, 216, 47);
+    border-radius: 10px;
+    padding: 20px;
+}
+#vision-3-3{
+    background-color: rgb(168, 52, 162);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#vision-2{
+    background-color: rgb(29, 134, 19);
+    border-radius: 10px;
+    padding: 20px;
+}
+#vision-3{
+    background-color: rgb(209, 114, 114);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+#rasul{
+    text-align: start;
+    font-size: larger;
+}
+Blockquote::before{
+    content: "\201C";
+    font-size: 100px;
+    color: lightgray;
+    font-family: sans-serif;
+    position: relative;
+    top: 50px;
+}
+  
+    /* satelite-1 */
+#satelite-1{
+  background-repeat: no-repeat;
+        
+    
+}
+.satelite-11{
+    display: flex;
+    justify-items: center;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+div img{
+    padding-right: 30px;
+    border-radius: 10px
+    
+}
+.h1-bd{
+    text-align: left;
+}
+#al-jazeera{
+  flex-direction: column;
+}
+/* 2nd satelite  */
+#satelite-1{
+    background-repeat: no-repeat;
+}
+
+.satelite-22{
+    display: flex;
+    justify-items: center;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 30px;
+
+}
+.h2-bd{
+    text-align: left;
+}
+#al-jazeera-1{
+    flex-direction: column;
+}
